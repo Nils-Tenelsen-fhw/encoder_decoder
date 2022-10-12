@@ -1,6 +1,8 @@
 Code based on: https://medium.com/deep-learning-with-keras/char-level-text-generation-with-an-encoder-decoder-model-3712ef6c1d6f
 
-Text generation using a character-level encoder-decoder model.
+Text generation using a character-level encoder-decoder model implemented in Python using TensorFlow.
+
+A rough list of used libraries and versions can be found in the corresponding thesis.
 
 The training process is started by executing train_model.py.
 Various prameters like batch_size, number of epochs, or the maximum sequence length can be altered using variables in the script.
